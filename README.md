@@ -9,6 +9,8 @@
 
 https://github.com/AhmetEsme/robotic_pick_place_cell/raw/main/pick_place_demo.mp4
 
+![Demo Preview](demo_preview.png)
+
 ---
 
 ## 🇬🇧 English
